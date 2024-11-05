@@ -43,7 +43,6 @@ module = ExtractUtilsModule(
     'oneplus',
     namespace_imports=namespace_imports,
     blob_fixups=blob_fixups,
-    check_elf=True,
     lib_fixups=lib_fixups,
 )
 
